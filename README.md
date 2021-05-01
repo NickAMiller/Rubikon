@@ -13,7 +13,3 @@ Hardware is as follows:
   
 ## Software
 The code needs the following libraries. Kociemba, RPi.GPIO, and RpiMotorLib
-
-## Adapter plate
-Todo
-
